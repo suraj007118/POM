@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Automatio Test]">
+  <test name="Smoke Testcases(failed)" preserve-order="true">
+    <classes>
+      <class name="com.morningstar.test.SampleTest2">
+        <methods>
+          <include name="LoginApp" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.morningstar.test.SampleTest2 -->
+    </classes>
+  </test> <!-- Smoke Testcases(failed) -->
+</suite> <!-- Failed suite [Automatio Test] -->
